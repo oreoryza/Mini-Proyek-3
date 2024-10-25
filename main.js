@@ -1,4 +1,4 @@
-// Single Responsibility Principle (SRP): Setiap class hanya menangani satu 
+//Enkapsulasi// Single Responsibility Principle (SRP): Setiap class hanya menangani satu 
 // tanggung jawab tertentu.
 
 class Developer {
